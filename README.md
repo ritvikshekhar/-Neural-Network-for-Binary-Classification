@@ -1,2 +1,3 @@
-#Neural-Network-for-Binary-Classification
- Implemented  Neural Network for Binary Classification
+# Neural-Network-for-Binary-Classification
+
+Implemented  Neural Network for Binary Classification
